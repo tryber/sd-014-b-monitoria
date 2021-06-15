@@ -3,14 +3,14 @@
 ## Bora testar fazer uma dinamicazinha aqui
 
 - [x] - Criar um repositório (opcional)
-- [ ] - Fazer o clone
-- [ ] Criação de um arquivo (opcional)
-- [ ] Adicionar os arquivos ao stage
-- [ ] Criar commit
-- [ ] Fazer um pull request
-- [ ] Merge da branch na main
-- [ ] Simular conflito
-- [ ] Resolver conflito
-- [ ] Será que vai dar um conflito?
-- [ ] Com toda certeza
-- [ ] Conflito resolvido
+- [x] - Fazer o clone
+- [x] Criação de um arquivo (opcional)
+- [x] Adicionar os arquivos ao stage
+- [x] Criar commit
+- [x] Fazer um pull request
+- [x] Merge da branch na main
+- [x] Simular conflito
+- [x] Resolver conflito
+- [x] Será que vai dar um conflito?
+- [x] Com toda certeza
+- [x] Conflito resolvido

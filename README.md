@@ -13,3 +13,4 @@
 - Resolver conflito
 - Será que vai dar um conflito?
 - Com toda certeza
+- Conflito resolvido

@@ -2,7 +2,7 @@
 
 ## Bora testar fazer uma dinamicazinha aqui
 
-- [ ] Criar um repositório (opcional)
+- [x] Criar um repositório (opcional)
 - [ ] Fazer o clone
 - [ ] Criação de um arquivo (opcional)
 - [ ] Adicionar os arquivos ao stage

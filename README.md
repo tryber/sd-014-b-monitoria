@@ -2,8 +2,8 @@
 
 ## Bora testar fazer uma dinamicazinha aqui
 
-- [x] Criar um repositório (opcional)
-- [ ] Fazer o clone
+- [x] - Criar um repositório (opcional)
+- [ ] - Fazer o clone
 - [ ] Criação de um arquivo (opcional)
 - [ ] Adicionar os arquivos ao stage
 - [ ] Criar commit

@@ -1,4 +1,4 @@
-# Monitoria-15-06 :rocket
+# Monitoria-15-06 :rocket:
 
 ## Bora testar fazer uma dinamicazinha aqui
 

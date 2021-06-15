@@ -9,3 +9,5 @@
 - Criar commit
 - Fazer um pull request
 - Merge da branch na main
+- Simular conflito
+- Resolver conflito

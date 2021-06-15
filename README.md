@@ -1,2 +1,11 @@
-# monitoria-15-06
-Bora testar fazer uma dinamicazinha aqui!!!
+# Monitoria-15-06 :rocket
+
+## Bora testar fazer uma dinamicazinha aqui
+
+- Criar um repositório (opcional)
+- Fazer o clone
+- Criação de um arquivo (opcional)
+- Adicionar os arquivos ao stage
+- Criar commit
+- Fazer um pull request
+- Merge da branch na main

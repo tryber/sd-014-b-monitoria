@@ -2,6 +2,8 @@
 
 ## Bora testar fazer uma dinamicazinha aqui
 
+~~~markdown
+
 - [x] - Criar um repositório (opcional)
 - [x] - Fazer o clone
 - [x] Criação de um arquivo (opcional)
@@ -14,3 +16,4 @@
 - [x] Será que vai dar um conflito?
 - [x] Com toda certeza
 - [x] Conflito resolvido
+~~~

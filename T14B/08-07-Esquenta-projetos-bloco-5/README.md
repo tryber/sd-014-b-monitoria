@@ -2,13 +2,23 @@
 
 O esquenta proposto para o bloco 5 é a criação de uma página onde se é possivel adicionar textos e imagens através do próprio navegador, com o intuito de que as pessoas estudantes consigam praticar os conhecimentos adquiridos ao longo do bloco 5 e blocos anteriores.
 
+## Esquematização básica do layout
+
+A esquematização básica do layout pode ser encontrada [Aqui](./imagens/layout-background-branco.png)
+
+![Esquematização básica do layout esquenta bloco 3][esquematizacao]
+
+[esquematizacao]: ./imagens/layout-background-preto.png
+
+---
+
 ## Layout básico
 
-O layout básico pode ser encontrado [Aqui](./layout-background-branco.png)
+O layout básico pode ser encontrado [Aqui](./imagens/layout-basico.png)
 
-![Layout base esquenta bloco 5][logo]
+![Layout base esquenta bloco 3][layout]
 
-[logo]: ./layout-background-preto.png
+[layout]: ./imagens/layout-basico.png
 
 ---
 

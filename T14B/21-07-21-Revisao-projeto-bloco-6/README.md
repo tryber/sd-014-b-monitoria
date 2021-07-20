@@ -2,6 +2,13 @@
 
 O esquenta proposto para o bloco 6 é a criação de uma página onde haja um formulário onde a pessoa possa introduzir alguns dados, como nome, cpf, email, telefone e outros, com o intuito de que as pessoas estudantes consigam praticar os conhecimentos adquiridos ao longo do bloco 6 e blocos anteriores.
 
+## Antes de começar a desenvolver
+
+Antes de começar a desenvolver faça um fork desse repositório para o seu perfil pessoal do Github, dessa forma esse projeto vai ficar salvo no seu perfil pessoal e não afetará este repositório.
+
+[Tutorial de como realizar um fork](https://guides.github.com/activities/forking/).
+
+---
 ## Esquematização básica do layout
 
 A esquematização básica do layout pode ser encontrada [Aqui](./imagens/layout-background-branco.png)

@@ -21,14 +21,18 @@
   </header>
   <main>
     <form>
-      <fieldset>]
+      <fieldset>
         <label for="full-name">
           Nome e Sobrenome
-          <input type="text" id="full-name">
+          <input type="text" id="full-name" required>
         </label>
         <label for="email">
           E-mail
-          <input type="text" id="email">
+          <input type="email"  pattern=".+@globex\.com" id="email" required>
+        </label>
+        <label for="telefone">
+          Telefone
+          <input type="tel" pattern="[0-9]{2}-[0-9]{5}-[0-9]{4}" id="telefone" maxlength="11" required>
         </label>
       </fieldset>
       <fieldset></fieldset>

@@ -1,35 +1,34 @@
 body {
+  font-size: 15pt;
+  height: 100vh;
   margin: auto;
   padding: 0;
-  font-size: 15pt;
   width: 70%;
 }
 
-#header {
+header {
   background-image: url('../imagens/bg-cinza.jpg');
-  display: flex;
-  /* vertical-align: top; */
   height: 100px;
-  justify-content: center;
   padding: 1%;
+  vertical-align: top;
 }
 
 .logo {
-  width: 75px;
-  height: 75px;
   display: inline-block;
+  height: 75px;
+  width: 75px;
 }
 
 h1 {
   display: inline-block;
-  /* margin-left: 22%; */
+  margin-left: 22%;
   vertical-align: top;
 }
 
-.navegacao {
+.navegation {
   display: inline-block;
-  /* left: 10%;
-  margin: 3% 0 auto 15%; */
+  left: 10%;
+  margin: 3% 0 auto 15%;
   vertical-align: top;
 }
 
@@ -48,64 +47,66 @@ main {
   background-image: url('../imagens/bg-central.jpg');
   background-position: center;
   background-repeat: no-repeat;
+  height: 70vh;
   padding: 1%;
 }
 
-#container-categorias {
+#text-container {
   background-color: rgba(168, 168, 168, 0.397);
-  border-radius: 10px;
   display: inline-block;
-  margin-left: 7%;
+  margin-left: 4%;
   padding: 40px;
   vertical-align: top;
   width: fit-content;
 }
 
-h2 {
-  margin: 0;
-}
-
-#lista-categorias li {
+#text-list li {
   padding: 10px;
 }
 
-#container-cartoes {
-  display: inline-block;
-  padding: 10px;
-  margin-left: 20%;
-  width: fit-content;
-}
-
-.cartao-item {
+#images-container {
   background-color: rgba(168, 168, 168, 0.397);
+  display: inline-block;
+  height: fit-content;
+  padding: 40px;
+  margin-left: 19%;
+  text-align: center;
+  vertical-align: top;
+  width: 350px;
+}
+
+.display-image {
+  height: 150px;
+  margin: 2%;
+  width: 150px;
+}
+
+/* .cartao-item {
   border: 1px solid black;
   border-radius: 10px;
   display: inline-block;
   padding: 20px;
   margin: 5px;
-  text-align: center;
 }
-
 .imagem-item {
   width: 200px;
   height: 150px;
-}
+} */
 
 footer {
-  background-image: url('https://media.istockphoto.com/photos/grunge-background-grey-color-design-picture-id653918904');
-  /* background-image: url('../imagens/bg-cinza.jpg'); */
+  background-image: url('../imagens/bg-cinza.jpg');
   padding: 5px;
 }
 
-.redes-sociais {
+.social-media {
   display: inline-block;
   margin-left: 30%;
   vertical-align: top;
 }
 
-#direitos-reservados {
+#copyright {
   display: inline-block;
   margin-left: 23%;
   margin-top: 2.5%;
   vertical-align: top;
-}
+} 

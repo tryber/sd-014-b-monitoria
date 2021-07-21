@@ -19,7 +19,7 @@ A esquematização básica do layout pode ser encontrada [Aqui](./imagens/layout
 
 ---
 
-## Layout básico
+<!-- ## Layout básico
 
 O layout básico pode ser encontrado [Aqui](./imagens/layout-basico.png)
 
@@ -27,7 +27,7 @@ O layout básico pode ser encontrado [Aqui](./imagens/layout-basico.png)
 
 [layout]: ./imagens/layout-basico.png
 
----
+--- -->
 
 ## Observações técnicas
 
@@ -38,7 +38,7 @@ O layout básico pode ser encontrado [Aqui](./imagens/layout-basico.png)
 
 1. É esperado que haja 1 input do tipo texto, onde será possível inserir o nome e o sobrenome da pessoa usuária;
 
-- Crie uma label com o valor `Nome e sobrenome`;
+- Crie uma label com o valor `Nome e Sobrenome`;
 - Crie um input do tipo texto;
 
 2. É esperado que haja 1 input do tipo texto, onde será possível inserir o e-mail da pessoa usuária;

@@ -1,0 +1,15 @@
+{
+  "name": "21-07-21-revisao-projeto-bloco-6",
+  "version": "1.0.0",
+  "description": "O esquenta proposto para o bloco 6 é a criação de uma página onde haja um formulário onde a pessoa possa introduzir alguns dados, como nome, cpf, email, telefone e outros, com o intuito de que as pessoas estudantes consigam praticar os conhecimentos adquiridos ao longo do bloco 6 e blocos anteriores.",
+  "main": "formulario.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-trybe-fundamentals": "^1.1.1"
+  }
+}

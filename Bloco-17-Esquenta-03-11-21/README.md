@@ -176,6 +176,8 @@ axios.get('endpoint', objeto)
 
 Cada `endpoint` dessa aplicação possui seu próprio requisito de informações para funcionar, cada um deles será mostrado abaixo:
 
+---
+
 ### Retornar todos as pessoas usuárias
 
 ~~~JavaScript
@@ -204,7 +206,7 @@ O `id` precisa ser uma string e ser o `id` da pessoa usuária que você quer ret
 axios.post('http://localhost:8080/user/new', newUser)
 ~~~
 
-A variável `newUser` precisa ser um objeto com todas as informações da nova pessoa usuária, tirando o `id`, todas as outras informações são obrigatórias, caso alguma fique em branco ou não seja passada um erro será retornado. O `id` é gerado automáticamente quando uma nova pessoa usuária é inserida. Exemplo de objeto que deve ser passado:
+A variável `newUser` precisa ser um objeto com todas as informações da nova pessoa usuária, tirando o `id`, todas as outras informações são obrigatórias, caso alguma fique em branco ou não seja passada, um erro será retornado. O `id` é gerado automáticamente quando uma nova pessoa usuária é inserida. Exemplo de objeto que deve ser passado:
 
 ~~~JavaScript
 {
@@ -229,7 +231,7 @@ A variável `newUser` precisa ser um objeto com todas as informações da nova p
 axios.put('http://localhost:8080/user/update', user)
 ~~~
 
-A variável `newUser` precisa ser um objeto com todas as informações da pessoa usuária, incluindo o `id`, todas as informações são obrigatórias, caso alguma fique em branco ou não seja passada um erro será retornado. Exemplo de objeto que deve ser passado:
+A variável `user` precisa ser um objeto com todas as informações da pessoa usuária, incluindo o `id`, todas as informações são obrigatórias, caso alguma fique em branco ou não seja passada, um erro será retornado. Exemplo de objeto que deve ser passado:
 
 ~~~JavaScript
 {
@@ -275,6 +277,7 @@ Todas as pessoas usuárias estão à principio com a mesma foto, caso você quei
 {
   id: '7b470caa-a699-f43f-4792-45331ea82256',
   image: 'https://www.des1gnon.com/wp-content/uploads/2020/03/Pexels-Banco-de-Imagens-gratis-Des1gnON.jpg'
+}
 ~~~
 
 ---

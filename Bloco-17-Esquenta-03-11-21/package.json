@@ -9,8 +9,6 @@
     "axios": "^0.21.4",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
-    "eslint-config-trybe-backend": "^1.0.4",
-    "eslint-config-trybe-frontend": "^1.2.1",
     "express": "^4.17.1",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
@@ -29,9 +27,7 @@
   "eslintConfig": {
     "extends": [
       "react-app",
-      "react-app/jest",
-      "trybe-frontend",
-      "trybe-backend"
+      "react-app/jest"
     ]
   },
   "browserslist": {

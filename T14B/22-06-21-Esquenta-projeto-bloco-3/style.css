@@ -1,0 +1,103 @@
+body {
+  margin: auto;
+  padding: 0;
+  font-size: 15pt;
+  width: 80%;
+}
+
+header {
+  background-color: rgb(110, 245, 245);
+  vertical-align: top;
+  height: 100px;
+  padding: 1%;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+
+h1 {
+  display: inline-block;
+  margin-left: 30%;
+  vertical-align: top;
+}
+
+.navegacao {
+  display: inline-block;
+  left: 10%;
+  margin: 2% 0 auto 20%;
+  vertical-align: top;
+}
+
+ul {
+  margin: 0;
+  padding: 10px;
+}
+
+.nav-item {
+  display: inline-block;
+  list-style: none;
+  font-weight: 600;
+}
+
+main {
+  background-color: rgb(221, 228, 156);
+  padding: 1%;
+}
+
+#container-categorias {
+  display: inline-block;
+  margin-left: 7%;
+  padding: 40px;
+  vertical-align: top;
+  width: fit-content;
+}
+
+h2 {
+  margin: 0;
+}
+
+#lista-categorias li {
+  padding: 10px;
+}
+
+#container-cartoes {
+  display: inline-block;
+  padding: 10px;
+  margin-left: 30%;
+  width: fit-content;
+}
+
+.cartao-item {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  padding: 20px;
+  margin: 5px;
+}
+
+.imagem-item {
+  width: 200px;
+  height: 150px;
+}
+
+footer {
+  background-color: rgb(110, 245, 245);
+  padding: 5px;
+}
+
+.redes-sociais {
+  display: inline-block;
+  margin-left: 35%;
+  margin-top: 4%;
+  vertical-align: top;
+}
+
+#direitos-reservados {
+  display: inline-block;
+  margin-left: 35%;
+  margin-top: 4%;
+  vertical-align: top;
+}

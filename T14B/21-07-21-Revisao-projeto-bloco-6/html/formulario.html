@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../css/formulario.css">
+  <title>Trybe - Project</title>
+</head>
+<body>
+  <header id="header">
+    <img src="../imagens/logo-trybe-roxo.png" alt="logo do site" alt="Logo site" class="logo">
+    <h1>Título para a página</h1>
+    <nav class="navegacao">
+      <ul>
+        <li class="nav-item"><a href="./index.html">Home</a></li>
+        <li class="nav-item"><a href="./listas.html">Listas</a></li>
+        <li class="nav-item"><a href="./formulario.html">Formulário</a></li> 
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <form>
+      <fieldset>
+        <label for="full-name">
+          Nome e Sobrenome
+          <input type="text" id="full-name" required>
+        </label>
+        <label for="email">
+          E-mail
+          <input type="email"  pattern=".+@globex\.com" id="email" required>
+        </label>
+        <label for="telefone">
+          Telefone
+          <input type="tel" pattern="[0-9]{2}-[0-9]{5}-[0-9]{4}" id="telefone" maxlength="11" required>
+        </label>
+        <label for="endereco">
+          Endereço
+          <input type="text" id="endereco" required>
+        </label>
+        <label for="estados">
+          Estado
+          <select id="estados" aria-placeholder="Escolha um Estado">
+            <option>Escolha um estado</option>
+          </select>
+        </label>
+      </fieldset>
+      <fieldset>
+        <h4>Deseja receber e-mails de avisos?</h4>
+        <label>
+          Sim
+          <input type="checkbox" id="" name="email-de-avisoo">
+        </label>
+        <label>
+          Não
+          <input type="checkbox" id="" name="email-de-avisoo">
+        </label>
+      </fieldset>
+      <fieldset></fieldset>
+    </form>
+  </main>
+  <footer>
+    <img src="../imagens/github-logo.png" alt="logo github, silhueta de um gato transparente em um fundo preto" class="logo">
+    <section class="redes-sociais">
+      <img src="../imagens/instagram-logo.png" alt="logo instagram, contorno de uma câmera com um degradê colorido e fundo transparente" class="logo">
+      <img src="../imagens/twitter-logo.png" alt="logo twitter, um pequeno pássaro azul, de lado" class="logo">
+      <img src="../imagens/youtube-logo.png" alt="logo youtube, um botão de play com o triângulo central transparente e o preenchimento do botão em vermelho" class="logo">
+    </section>
+    <p id="direitos-reservados">Direitos reservados</p>
+  </footer>
+  <script src="../js/formulario.js"></script>
+</body>
+</html>

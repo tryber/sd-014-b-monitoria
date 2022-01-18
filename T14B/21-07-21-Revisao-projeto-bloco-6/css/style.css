@@ -1,0 +1,111 @@
+body {
+  margin: auto;
+  padding: 0;
+  font-size: 15pt;
+  width: 70%;
+}
+
+#header {
+  background-image: url('../imagens/bg-cinza.jpg');
+  display: flex;
+  /* vertical-align: top; */
+  height: 100px;
+  justify-content: center;
+  padding: 1%;
+}
+
+.logo {
+  width: 75px;
+  height: 75px;
+  display: inline-block;
+}
+
+h1 {
+  display: inline-block;
+  /* margin-left: 22%; */
+  vertical-align: top;
+}
+
+.navegacao {
+  display: inline-block;
+  /* left: 10%;
+  margin: 3% 0 auto 15%; */
+  vertical-align: top;
+}
+
+ul {
+  margin: 0;
+  padding: 10px;
+}
+
+.nav-item {
+  display: inline-block;
+  list-style: none;
+  font-weight: 600;
+}
+
+main {
+  background-image: url('../imagens/bg-central.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 1%;
+}
+
+#container-categorias {
+  background-color: rgba(168, 168, 168, 0.397);
+  border-radius: 10px;
+  display: inline-block;
+  margin-left: 7%;
+  padding: 40px;
+  vertical-align: top;
+  width: fit-content;
+}
+
+h2 {
+  margin: 0;
+}
+
+#lista-categorias li {
+  padding: 10px;
+}
+
+#container-cartoes {
+  display: inline-block;
+  padding: 10px;
+  margin-left: 20%;
+  width: fit-content;
+}
+
+.cartao-item {
+  background-color: rgba(168, 168, 168, 0.397);
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  padding: 20px;
+  margin: 5px;
+  text-align: center;
+}
+
+.imagem-item {
+  width: 200px;
+  height: 150px;
+}
+
+footer {
+  background-image: url('https://media.istockphoto.com/photos/grunge-background-grey-color-design-picture-id653918904');
+  /* background-image: url('../imagens/bg-cinza.jpg'); */
+  padding: 5px;
+}
+
+.redes-sociais {
+  display: inline-block;
+  margin-left: 30%;
+  vertical-align: top;
+}
+
+#direitos-reservados {
+  display: inline-block;
+  margin-left: 23%;
+  margin-top: 2.5%;
+  vertical-align: top;
+}

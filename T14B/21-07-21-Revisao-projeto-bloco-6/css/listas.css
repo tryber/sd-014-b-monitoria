@@ -1,0 +1,112 @@
+body {
+  font-size: 15pt;
+  height: 100vh;
+  margin: auto;
+  padding: 0;
+  width: 70%;
+}
+
+header {
+  background-image: url('../imagens/bg-cinza.jpg');
+  height: 100px;
+  padding: 1%;
+  vertical-align: top;
+}
+
+.logo {
+  display: inline-block;
+  height: 75px;
+  width: 75px;
+}
+
+h1 {
+  display: inline-block;
+  margin-left: 22%;
+  vertical-align: top;
+}
+
+.navegation {
+  display: inline-block;
+  left: 10%;
+  margin: 3% 0 auto 15%;
+  vertical-align: top;
+}
+
+ul {
+  margin: 0;
+  padding: 10px;
+}
+
+.nav-item {
+  display: inline-block;
+  list-style: none;
+  font-weight: 600;
+}
+
+main {
+  background-image: url('../imagens/bg-central.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 70vh;
+  padding: 1%;
+}
+
+#text-container {
+  background-color: rgba(168, 168, 168, 0.397);
+  display: inline-block;
+  margin-left: 4%;
+  padding: 40px;
+  vertical-align: top;
+  width: fit-content;
+}
+
+#text-list li {
+  padding: 10px;
+}
+
+#images-container {
+  background-color: rgba(168, 168, 168, 0.397);
+  display: inline-block;
+  height: fit-content;
+  padding: 40px;
+  margin-left: 19%;
+  text-align: center;
+  vertical-align: top;
+  width: 350px;
+}
+
+.display-image {
+  height: 150px;
+  margin: 2%;
+  width: 150px;
+}
+
+/* .cartao-item {
+  border: 1px solid black;
+  border-radius: 10px;
+  display: inline-block;
+  padding: 20px;
+  margin: 5px;
+}
+.imagem-item {
+  width: 200px;
+  height: 150px;
+} */
+
+footer {
+  background-image: url('../imagens/bg-cinza.jpg');
+  padding: 5px;
+}
+
+.social-media {
+  display: inline-block;
+  margin-left: 30%;
+  vertical-align: top;
+}
+
+#copyright {
+  display: inline-block;
+  margin-left: 23%;
+  margin-top: 2.5%;
+  vertical-align: top;
+} 

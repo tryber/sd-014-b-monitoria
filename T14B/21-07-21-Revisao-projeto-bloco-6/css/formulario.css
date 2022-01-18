@@ -1,0 +1,45 @@
+body {
+  font-family: sans-serif;
+}
+
+#header {
+  /* background-color: aqua; */
+  display: flex;
+  flex-basis: 60%;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.logo {
+  /* flex-basis: 60%; */
+  height: 75px;
+  width: 75px;
+}
+
+.navegacao {
+  align-items: center ;
+  display: flex;
+  /* background-color: brown; */
+  justify-content: center;
+  width: 30%;
+}
+
+.navegacao ul {
+  align-items: center;
+  /* background-color: darkgray; */
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  text-decoration: none;
+  width: 100%;
+}
+
+.nav-item a {
+  align-self: center;
+  font-size: 2rem;
+  text-decoration: none;
+}
+
+a:visited {
+  color: inherit;
+}
